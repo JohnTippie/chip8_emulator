@@ -1,0 +1,12 @@
+#Compiled Object File
+*.o
+
+#Visual Studio Code folder
+.vscode/*
+
+#SDL Dependancy
+Dev/
+
+#Executables
+*.exe
+*.dll
